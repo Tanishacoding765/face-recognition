@@ -1,0 +1,19 @@
+body{
+background-color:teal;
+}
+
+#camera{
+ border:2px solid red;
+ width:350px;
+ height:300px;   
+}
+
+.nameofobjects, #object_accuracy, #object_name{
+color: black;
+font-style: italic;
+}
+
+h3{
+ width:100%;
+ font-size:35px !important;
+    }
